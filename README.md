@@ -15,7 +15,7 @@ Projeto de classificação que usa medidas de exames de imagem (punção aspirat
   - `id`: identificador do paciente
   - `Unnamed: 32`: coluna vazia (100% nula), gerada pela formatação do arquivo
 
-O arquivo original está em `data/raw/data.csv` e **é versionado neste repositório** (≈ 125 KB) para que o projeto rode — inclusive via Docker — sem nenhum passo manual de download. Ele nunca é editado à mão: toda limpeza é feita por código.
+O arquivo original está em `data/raw/data.csv` e **é versionado neste repositório** (≈ 125 KB) para que o projeto rode (inclusive via Docker) sem nenhum passo manual de download. Ele nunca é editado à mão: toda limpeza é feita por código.
 
 ## Estrutura do projeto
 
